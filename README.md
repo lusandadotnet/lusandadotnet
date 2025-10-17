@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Lusanda</h1>
 <h3 align="center">2nd year Software Development Student @NMU</h3>
-<h4 align="center">I’m currently working on [Grocsmart, a supply chain and inventory solution for South African SME's](https://github.com/lusandadotnet/grocsmart-windows-s2t)</h4>
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
