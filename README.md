@@ -4,8 +4,7 @@
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lusandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lusandan" height="30" width="40" /></a>
-<a href="https://instagram.com/sadandlovu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadandlovu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sadandlovu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadandlovu" height="30" width="40" /></a>
+<a href="https://instagram.com/wannabe120kg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadandlovu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lusandaswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lusandaswe" height="30" width="40" /></a>
 </p>
 
